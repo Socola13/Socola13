@@ -73,7 +73,7 @@ Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Socola13&show_icons=true&theme=gotham" alt="Socola" />
 
-<a href="https://github.com/socola">
+<a href="https://github.com/Socola13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socola13&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
