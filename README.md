@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu!](https://genesysdeveloper-df371.web.app/), a passionate self-taught Full Stack Web Developer 🚀 from Perú.
+Hi, I'm [Pablo Sócola!](https://genesysdeveloper-df371.web.app/), a passionate self-taught Full Stack Web Developer 🚀 from Perú.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -69,12 +69,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 📈 My GitHub Stats
-<a href="https://github.com/socola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socola13&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Socola13&show_icons=true&theme=gotham" alt="Socola" />
 
+<a href="https://github.com/socola">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socola13&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
