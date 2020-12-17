@@ -19,7 +19,7 @@
 
 <br />
 
-Hola, soy [Pablo Sócola!](https://genesysdeveloper-df371.web.app/), un apasionado desarrollador web Full Stack autodidacta🚀 de Perú.
+Hola, soy [Pablo Sócola!](https://ziggybotdiscord.web.app/), un apasionado desarrollador web Full Stack autodidacta🚀 de Perú.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
