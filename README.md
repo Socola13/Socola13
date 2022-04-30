@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://www.logo.wine/a/logo/Spotify/Spotify-Logo.wine.svg" />
 </a>
 <a href="https://www.reddit.com/user/PabloCS13/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="hhttps://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" />
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Ziggy.Ziggy)
