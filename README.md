@@ -9,10 +9,10 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/0Ix5iw819EOemeOyBbZUPH">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://www.logo.wine/a/logo/Spotify/Spotify-Logo.wine.svg" />
 </a>
 <a href="https://www.reddit.com/user/PabloCS13/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="hhttps://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Ziggy.Ziggy)
